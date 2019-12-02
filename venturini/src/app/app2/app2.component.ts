@@ -11,5 +11,6 @@ export class App2Component implements OnInit {
 
   ngOnInit() {
   }
+  ironman = 'secondo';
 
 }

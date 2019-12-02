@@ -11,5 +11,6 @@ export class App4Component implements OnInit {
 
   ngOnInit() {
   }
+  cucu = 'quarto';
 
 }

@@ -11,5 +11,6 @@ export class App3Component implements OnInit {
 
   ngOnInit() {
   }
+  bello = 'terzo';
 
 }
